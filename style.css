@@ -1,0 +1,51 @@
+/* *{
+    font-family: Space Grotesk;
+    font-weight: normal;
+} */
+body{
+    background: linear-gradient(72deg, #432093 0%, #90DAFD 100%);
+    background-repeat: no-repeat;
+    height: 125vh;
+    font-family: 'space Grotesk',sans-serif;
+}
+/*}
+#banner-headers{
+
+}*/
+#banner-header-1{
+    background-image: url(/images/img1.png);
+    background-position: center;
+     background-size: contain;
+     background-repeat: no-repeat;
+    height: 500px;
+    width:100%;
+}
+#banner-header-2{
+    background-image: url(/images/img4.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
+    width:100%;
+}
+#banner-header-3{
+    background-image: url(/images/img3.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
+    width:100%;
+}
+#banner-header-4{
+    background-image: url(/images/img2.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
+    width:100%;
+               
+}
+#rating{
+    justify-content: center;
+    justify-items: center;
+}
